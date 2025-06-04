@@ -1,0 +1,5 @@
+{
+    "UserId": "AIDXXQ3DXXXXXXN2WZQX",
+    "Account": "654XXXXXXXXX",
+    "Arn": "arn:aws:iam::654XXXXXXXXX:user/Terra"
+}
